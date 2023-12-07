@@ -2,6 +2,7 @@
   "name": "class-random-1",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://hungvt13.github.io/class-random-1",
   "type": "module",
   "scripts": {
     "dev": "vite",
